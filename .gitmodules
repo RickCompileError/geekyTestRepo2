@@ -1,3 +1,6 @@
 [submodule "vimrc"]
 	path = vimrc
 	url = https://github.com/RickCompileError/vimrc.git
+[submodule "PBS"]
+	path = PBS
+	url = https://github.com/RickCompileError/PBS
